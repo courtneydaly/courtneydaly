@@ -6,8 +6,6 @@ I'm a Senior Digital Marketing Associate II at Reingold. Over 7+ years I've work
 
 **Working with:** GCP (BigQuery, Cloud Run, Cloud Storage, Dataform) · Python · SQL · Airbyte · MCP · Claude API · Looker Studio · Adobe Campaign · Google Ads, Meta, LinkedIn, TikTok, Microsoft Ads
 
-**Currently:** studying for a Google Cloud data certification
-
 ---
 
 #### Projects
